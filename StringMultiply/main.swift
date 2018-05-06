@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import StringMultiply
 
-print("Hello, World!")
+print(StringMultiply.multiply("9", "8"))
 
